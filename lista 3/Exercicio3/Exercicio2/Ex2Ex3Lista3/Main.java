@@ -28,7 +28,6 @@ public class Main {
             }
             else if (p==2){
                 idade=(idade-1);
-                idade=(idade+1);
                 um.setIdade(idade);
             }
             else if (p==3){
