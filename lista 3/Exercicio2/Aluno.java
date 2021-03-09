@@ -5,10 +5,10 @@ public class Aluno {
     private Disciplina[] materiasFeitas= new Disciplina[100];
     private int[] notas= new int[100];
 
-    public void historicoAluno (){
+    private void historicoAluno (){
         //printar a lista de matérias feitas e a lista de notas.
     }
-    public void calcularCR (){
+    private void calcularCR (){
         //Quando chamada, acessa as notas de um aluno e faz o cálculo do CR.
     }
 }

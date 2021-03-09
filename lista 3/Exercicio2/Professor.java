@@ -5,15 +5,15 @@ public class Professor {
     private Turma[] materiasAplicadas= new Turma[100];
     private Disciplina[] disciplinasdadas=new Disciplina [100];
 
-    public void avaliarAluno (){
+    private void avaliarAluno (){
 
     }
 
-    public void prepararAula (){
+    private void prepararAula (){
 
     }
 
-    public void EscolherQuestoes(){
+    private void EscolherQuestoes(){
         
     }
     

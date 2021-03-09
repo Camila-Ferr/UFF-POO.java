@@ -2,10 +2,10 @@ public class Inscricao {
     private Aluno candidato= new Aluno();
     private Turma[] materiasInscritas= new Turma[100];
 
-    public void trancarMateria (Turma turma){
+    private void trancarMateria (Turma turma){
 
     }
-    public void addMateria (Turma turma){
+    private void addMateria (Turma turma){
 
     }
 
