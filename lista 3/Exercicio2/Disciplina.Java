@@ -5,8 +5,12 @@ public class Disciplina {
     private String Ementa;
     private int cargaHoraria;
 
-    public void ementa (){
+    public void mostrarEmenta (){
         //Quando chamada na main, procura a disciplina, e uma vez encontrada, acessa a Ementa e printa a mesma.
+    }
+
+    String getCodigoDisciplina(){
+        return codigo;
     }
 
 

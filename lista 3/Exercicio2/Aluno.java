@@ -9,6 +9,6 @@ public class Aluno {
         //printar a lista de matérias feitas e a lista de notas.
     }
     public void calcularCR (){
-    //Quando chamada, acessa as notas de um aluno e faz o cálculo do CR.
+        //Quando chamada, acessa as notas de um aluno e faz o cálculo do CR.
     }
 }

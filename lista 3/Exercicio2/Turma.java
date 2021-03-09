@@ -8,13 +8,17 @@ public class Turma {
     private String horario;
     private Disciplina disciplina =new Disciplina();
 
-    public void mediadoAluno (String Matricula){
+    public void mediaDoAluno (String Matricula){
         //Recebe a matrícula e procura na lista de alunos, ao achar, pega o índice e busca sua nota.
         //Ao final printa a sua média, a média da turma e sua produtividade com relação a turma.    
     }
 
-    public static int getHorario() {
-        return turma.horario;
+    public void horarioDeAula (){
+
+    }
+
+    String getCodigoTurma(){
+        return codigo;
     }
 }
 
