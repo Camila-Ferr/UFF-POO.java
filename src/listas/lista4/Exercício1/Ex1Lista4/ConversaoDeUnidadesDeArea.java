@@ -1,4 +1,4 @@
-package Ex1Lista4;
+package listas.lista4.Exercício1.Ex1Lista4;
 public class ConversaoDeUnidadesDeArea{
 
     public static double metroPe (Double valor){

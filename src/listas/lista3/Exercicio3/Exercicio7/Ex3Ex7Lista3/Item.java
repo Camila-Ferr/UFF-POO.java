@@ -1,4 +1,4 @@
-package Ex3Ex7Lista3;
+package listas.lista3.Exercicio3.Exercicio7.Ex3Ex7Lista3;
 public class Item {
     private String nome;
     private double preco;

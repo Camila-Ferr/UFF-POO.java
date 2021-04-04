@@ -1,4 +1,4 @@
-package Ex6Lista4;
+package listas.lista4.Exercicio6.Ex6Lista4;
 public class Fogo extends Pokemon{
     Fogo (String nome){
         super(nome, 140,1);

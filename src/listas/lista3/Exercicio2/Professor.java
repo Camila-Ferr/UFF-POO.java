@@ -1,3 +1,5 @@
+package listas.lista3.Exercicio2;
+
 public class Professor {
     private String nome;
     private String formacao;

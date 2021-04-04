@@ -1,4 +1,4 @@
-package Ex4Lista4;
+package listas.lista4.Exercicio4.Ex4Lista4;
 public class FormasGeometricas {
     private float base;
     private float altura;

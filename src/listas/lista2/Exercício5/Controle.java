@@ -1,4 +1,4 @@
-package Exercício5;
+package listas.lista2.Exercício5;
 public class Controle {
     Boolean estado;
     Boolean silenciar;

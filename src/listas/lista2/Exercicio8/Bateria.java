@@ -1,4 +1,4 @@
-package Exercicio8;
+package listas.lista2.Exercicio8;
 public class Bateria {  
     int carga;
     int limite;

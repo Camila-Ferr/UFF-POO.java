@@ -1,4 +1,4 @@
-package Ex1Lista4;
+package listas.lista4.Exercício1.Ex1Lista4;
 import java.util.Scanner;
 class Main {
     public static void main(String[] args) {

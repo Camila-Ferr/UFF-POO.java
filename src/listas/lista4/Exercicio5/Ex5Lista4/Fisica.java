@@ -1,4 +1,4 @@
-package Ex5Lista4;
+package listas.lista4.Exercicio5.Ex5Lista4;
 
 class Fisica extends Contato {
     private String CPF;

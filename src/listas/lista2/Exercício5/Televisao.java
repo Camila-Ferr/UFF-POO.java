@@ -1,4 +1,4 @@
-package Exercício5;
+package listas.lista2.Exercício5;
 import java.util.Scanner;
 import java.util.Random;
 

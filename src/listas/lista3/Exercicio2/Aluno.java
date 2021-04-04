@@ -1,3 +1,5 @@
+package listas.lista3.Exercicio2;
+
 public class Aluno {
     private String matricula;
     private String nome;

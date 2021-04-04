@@ -1,4 +1,4 @@
-package Ex3Ex8Lista3;
+package listas.lista3.Exercicio3.Exercicio8.Ex3Ex8Lista3;
 public class Bateria {  
     private int carga;
     private int limite;

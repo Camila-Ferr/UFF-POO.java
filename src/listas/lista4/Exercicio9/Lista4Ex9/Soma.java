@@ -1,4 +1,4 @@
-package Lista4Ex9;
+package listas.lista4.Exercicio9.Lista4Ex9;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.List;

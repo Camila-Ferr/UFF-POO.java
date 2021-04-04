@@ -1,4 +1,4 @@
-package Lista4Ex3;
+package listas.lista4.Exercício3.Lista4Ex3;
 import java.util.Scanner;
 public class Familia {
     public static void main(String[] args) {

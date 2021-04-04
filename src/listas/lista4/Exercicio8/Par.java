@@ -1,3 +1,5 @@
+package listas.lista4.Exercicio8;
+
 public class Par <F, S > {
     private F f;
     private S s;

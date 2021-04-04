@@ -1,4 +1,4 @@
-package Lista4Ex9;
+package listas.lista4.Exercicio9.Lista4Ex9;
 public class Retangulo extends FiguraGeometrica <Float> {
     
     @Override

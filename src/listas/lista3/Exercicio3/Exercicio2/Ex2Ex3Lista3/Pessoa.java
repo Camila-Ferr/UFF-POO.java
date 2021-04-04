@@ -1,4 +1,4 @@
-package Ex2Ex3Lista3;
+package listas.lista3.Exercicio3.Exercicio2.Ex2Ex3Lista3;
 public class Pessoa{
     private String nome;
     private int idade;

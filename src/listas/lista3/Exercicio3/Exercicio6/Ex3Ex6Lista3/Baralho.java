@@ -1,4 +1,4 @@
-package Ex3Ex6Lista3;
+package listas.lista3.Exercicio3.Exercicio6.Ex3Ex6Lista3;
 import java.util.Random;
 public class Baralho {
     private Carta[] lista= new Carta[52];

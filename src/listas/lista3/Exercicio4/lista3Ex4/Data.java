@@ -1,4 +1,4 @@
-package lista3Ex4;
+package listas.lista3.Exercicio4.lista3Ex4;
 class Data {
     private String mes;
     private int dia;

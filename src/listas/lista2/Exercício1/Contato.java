@@ -1,4 +1,4 @@
-package Exercício1;
+package listas.lista2.Exercício1;
 public class Contato{
     String nome;
     String apelido;

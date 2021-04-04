@@ -1,4 +1,4 @@
-package Ex3Ex5Lista3;
+package listas.lista3.Exercicio3.Exercício5.Ex3Ex5Lista3;
 import java.util.Scanner;
 import java.util.Random;
 

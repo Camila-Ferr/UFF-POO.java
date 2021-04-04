@@ -1,4 +1,4 @@
-package Exercicio7;
+package listas.lista2.Exercicio7;
 class Supermercado {
     Item[] lista= new Item[100];
     int indice=0;

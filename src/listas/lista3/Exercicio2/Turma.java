@@ -1,3 +1,5 @@
+package listas.lista3.Exercicio2;
+
 public class Turma {
 
     private Aluno[] alunos= new Aluno[100];

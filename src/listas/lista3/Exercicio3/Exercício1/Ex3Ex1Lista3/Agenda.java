@@ -1,4 +1,4 @@
-package Ex3Ex1Lista3;
+package listas.lista3.Exercicio3.Exercício1.Ex3Ex1Lista3;
 public class Agenda {
     String nome, apelido,numero,eMail;
     Contato[] lista= new Contato[100];

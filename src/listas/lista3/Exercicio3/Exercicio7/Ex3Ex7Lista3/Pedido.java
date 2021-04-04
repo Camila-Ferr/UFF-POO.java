@@ -1,4 +1,4 @@
-package Ex3Ex7Lista3;
+package listas.lista3.Exercicio3.Exercicio7.Ex3Ex7Lista3;
 import java.util.Scanner;
 class Pedido {
     Scanner teclado =new Scanner (System.in);

@@ -1,4 +1,4 @@
-package Exercicio6;
+package listas.lista2.Exercicio6;
 import java.util.Random;
 import java.util.Scanner;
 public class Baralho {

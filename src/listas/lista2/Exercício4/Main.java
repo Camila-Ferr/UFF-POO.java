@@ -1,4 +1,4 @@
-package Exercício4;
+package listas.lista2.Exercício4;
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {

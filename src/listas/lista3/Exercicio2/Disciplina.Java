@@ -1,4 +1,6 @@
-public class Disciplina {
+package listas.lista3.Exercicio2;
+
+class Disciplina {
 
     private String nome;
     private String codigo;

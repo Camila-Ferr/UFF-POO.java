@@ -1,4 +1,4 @@
-package Ex3Ex3Lista3;
+package listas.lista3.Exercicio3.Exercicio3.Ex3Ex3Lista3;
 import java.util.Scanner;
 class Main {
     public static void main(String[] args) {

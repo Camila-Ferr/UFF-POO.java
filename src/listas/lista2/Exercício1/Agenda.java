@@ -1,4 +1,4 @@
-package Exercício1;
+package listas.lista2.Exercício1;
 public class Agenda {
     Contato[] lista= new Contato[100];
     int indice=0;

@@ -1,3 +1,5 @@
+package listas.lista4.Exercicio7;
+
 import java.util.Scanner;
 public class Dia {
     
